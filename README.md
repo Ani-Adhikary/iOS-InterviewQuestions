@@ -125,6 +125,6 @@ Content Hugging and Compression Resistance (CHCR) <br />
 Intrinsic Content Size <br />
 
 <b>Github Useful resources</b> <br />
---------<br />
+———<br />
 https://github.com/onthecodepath/iOS-Interview-Questions <br />
 https://github.com/BohdanOrlov/iOS-Developer-Roadmap
