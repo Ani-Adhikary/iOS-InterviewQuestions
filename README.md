@@ -2,45 +2,45 @@
 
 iOS Questions
 ——-
-App Life Cycle
-View Controller Life Cycle
-App Delegate usage
-Starting point of an app
-Execution States for Apps
-UIWindow vs UIView
+App Life Cycle <br />
+View Controller Life Cycle <br />
+App Delegate usage <br />
+Starting point of an app <br />
+Execution States for Apps <br />
+UIWindow vs UIView <br />
 Responder Chain
 
 
 Design Patterns
 ———
-Types of Design Patterns
-Explain MVC
-What is Delegate object?
-Communication Patterns
-KVC-KVO
-Delegation 
-Why delegation is implemented using protocols
-Notification
+Types of Design Patterns <br />
+Explain MVC <br />
+What is Delegate object? <br />
+Communication Patterns <br />
+KVC-KVO <br />
+Delegation <br />
+Why delegation is implemented using protocols <br />
+Notification <br />
 
 
 Concurrency
 ———
-Sync vs Async
-GCD in detail
-Despatch Groups
-When to use GCD and Operations
+Sync vs Async <br />
+GCD in detail <br />
+Despatch Groups <br />
+When to use GCD and Operations <br />
 
 Memory Management
 ———
-ARC
-What is Strong Reference Cycle
-Diff between Strong, Weak and Unknown
-MRC
-Property Attributes
-Atomic vs Non Atomic
-Copy vs Retain
+ARC <br />
+What is Strong Reference Cycle <br />
+Diff between Strong, Weak and Unknown <br />
+MRC <br />
+Property Attributes <br />
+Atomic vs Non Atomic <br />
+Copy vs Retain <br />
 
 UITableViews
 ———
-Reuse Identifier
-Dequeue Cells meaning
+Reuse Identifier <br />
+Dequeue Cells meaning <br />
