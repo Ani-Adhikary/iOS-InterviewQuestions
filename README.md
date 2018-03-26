@@ -11,8 +11,8 @@ UIWindow vs UIView <br />
 Responder Chain <br />
 View Basics <br />
 Frame vs Bounds <br />
-Use of View Controller< br />
-How to pass data between View Controllers<br />
+Use of View Controller <br />
+How to pass data between View Controllers <br />
 
 <b>Design Patterns</b> <br />
 ——— <br />
