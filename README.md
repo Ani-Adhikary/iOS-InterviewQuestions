@@ -55,12 +55,10 @@ Swift
 =======
 
 <b>Swift 4 new features</b> <br />
-=======
 ——— <br />
 Encodable Decodable <br />
 
 <b>Control Flow</b> <br />
-=======
 ——— <br />
 Guard vs Let Statements <br />
 When to use when <br />
