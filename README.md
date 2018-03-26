@@ -114,6 +114,10 @@ When will you use generics <br />
 
 <b>Access Control </b><br />
 
+<b>Extensions</b> <br />
+—— <br />
+When will you use extensions in Swift? Give example <br />
+
 <b>Auto Layout</b> <br />
 ——— <br />
 Self-sizing Table view cells <br />
