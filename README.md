@@ -13,6 +13,7 @@ View Basics <br />
 Frame vs Bounds <br />
 Use of View Controller <br />
 How to pass data between View Controllers <br />
+http://matteomanferdini.com/how-ios-view-controllers-communicate-with-each-other/
 
 <b>Design Patterns</b> <br />
 ——— <br />
