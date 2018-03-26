@@ -22,7 +22,8 @@ KVC-KVO <br />
 Delegation <br />
 Why delegation is implemented using protocols <br />
 Notification <br />
-
+Implementing Singleton Design Pattern<br />
+Difference between MVC and MVVM<br />
 
 <b>Concurrency</b> <br />
 ——— <br />
