@@ -77,7 +77,7 @@ Stored vs Computed <br />
 Property Observers <br />
 Lazy Stored Property <br />
 
-</b>Structures vs Classes <b> <br />
+<b>Structures vs Classes </b> <br />
 ——— <br />
 When to use when <br />
 
