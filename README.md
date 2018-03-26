@@ -23,9 +23,16 @@ Communication Patterns <br />
 KVC-KVO <br />
 Delegation <br />
 Why delegation is implemented using protocols <br />
+Implementing delegates in Swift, step by step <br />
+https://medium.com/@jamesrochabrun/implementing-delegates-in-swift-step-by-step-d3211cbac3ef <br />
 Notification <br />
 Implementing Singleton Design Pattern<br />
 Difference between MVC and MVVM<br />
+iOS Architecture Patterns <br />
+https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52<br />
+Adopting Cocoa Design Patterns <br />
+https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/AdoptingCocoaDesignPatterns.html
+
 
 <b>Concurrency</b> <br />
 ——— <br />
