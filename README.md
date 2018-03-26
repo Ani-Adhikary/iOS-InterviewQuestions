@@ -1,6 +1,6 @@
 # iOS-Interview
 
-iOS Questions
+iOS Questions <br />
 ——-
 App Life Cycle <br />
 View Controller Life Cycle <br />
@@ -11,7 +11,7 @@ UIWindow vs UIView <br />
 Responder Chain
 
 
-Design Patterns
+Design Patterns <br />
 ———
 Types of Design Patterns <br />
 Explain MVC <br />
@@ -23,14 +23,14 @@ Why delegation is implemented using protocols <br />
 Notification <br />
 
 
-Concurrency
+Concurrency <br />
 ———
 Sync vs Async <br />
 GCD in detail <br />
 Despatch Groups <br />
 When to use GCD and Operations <br />
 
-Memory Management
+Memory Management <br />
 ———
 ARC <br />
 What is Strong Reference Cycle <br />
@@ -40,7 +40,7 @@ Property Attributes <br />
 Atomic vs Non Atomic <br />
 Copy vs Retain <br />
 
-UITableViews
+UITableViews <br />
 ———
 Reuse Identifier <br />
 Dequeue Cells meaning <br />
