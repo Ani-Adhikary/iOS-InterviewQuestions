@@ -1,7 +1,7 @@
 # iOS-Interview Questions
 
 <b>iOS Questions</b> <br />
-——- <br />
+——— <br />
 App Life Cycle <br />
 View Controller Life Cycle <br />
 App Delegate usage <br />
