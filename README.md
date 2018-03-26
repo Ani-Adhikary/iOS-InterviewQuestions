@@ -81,7 +81,7 @@ Lazy Stored Property <br />
 ——— <br />
 When to use when <br />
 
-<b>Initializers <b><br />
+<b>Initializers </b><br />
 ——— <br />
 Convenience and Designated Initializers <br />
 Self and Super <br />
