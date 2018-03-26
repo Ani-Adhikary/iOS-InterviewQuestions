@@ -11,6 +11,8 @@ UIWindow vs UIView <br />
 Responder Chain <br />
 View Basics <br />
 Frame vs Bounds <br />
+Use of View Controller< br />
+How to pass data between View Controllers<br />
 
 <b>Design Patterns</b> <br />
 ——— <br />
@@ -51,6 +53,10 @@ How Swift is better than ObjC
 
 Swift
 =======
+
+<b>Swift 4 new features</b> <br />
+——— <br />
+Encodable Decodable <br />
 
 <b>Control Flow</b> <br />
 ——— <br />
