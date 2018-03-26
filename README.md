@@ -43,4 +43,4 @@ Copy vs Retain <br />
 UITableViews <br />
 ——— <br />
 Reuse Identifier <br />
-Dequeue Cells meaning <br />
+Dequeue Cells meaning <br /> https://medium.com/ios-seminar/why-we-use-dequeuereusablecellwithidentifier-ce7fd97cde8e
