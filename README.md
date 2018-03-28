@@ -57,7 +57,10 @@ Copy vs Retain <br />
 Reuse Identifier <br />
 Dequeue Cells meaning <br /> https://medium.com/ios-seminar/why-we-use-dequeuereusablecellwithidentifier-ce7fd97cde8e
 
-How Swift is better than ObjC
+<b>Swift vs Obj-C</b> <br />
+How Swift is better than ObjC<br />
+How protocols of Swift and Obj-C differ<br />
+Categories, Extensions in ObjC<br />
 
 Swift
 =======
