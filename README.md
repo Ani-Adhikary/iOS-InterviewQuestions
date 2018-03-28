@@ -110,7 +110,8 @@ As! Vs as? <br />
 ——— <br />
 Use of closures <br />
 Filter, Map Reduce <br />
-
+@escaping <br />
+What are completion handlers <br />
 
 <b>Generics</b> <br />
 —— <br />
