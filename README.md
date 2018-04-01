@@ -123,6 +123,13 @@ When will you use generics <br />
 —— <br />
 When will you use extensions in Swift? Give example <br />
 
+
+<b>Error Handling</b> <br />
+—— <br />
+Do, Try, Catch  <br />
+https://www.youtube.com/watch?v=Lrc-MX8WgNc&t=74s <br />
+
+
 <b>Auto Layout</b> <br />
 ——— <br />
 Self-sizing Table view cells <br />
