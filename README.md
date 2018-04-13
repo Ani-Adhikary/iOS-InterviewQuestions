@@ -6,6 +6,7 @@ App Life Cycle <br />
 View Controller Life Cycle <br />
 App Delegate usage <br />
 Starting point of an app <br />
+https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1 <br />
 Execution States for Apps <br />
 UIWindow vs UIView <br />
 Responder Chain <br />
