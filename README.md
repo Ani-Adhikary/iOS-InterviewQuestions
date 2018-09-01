@@ -27,6 +27,7 @@ Delegation <br />
 Why delegation is implemented using protocols <br />
 Implementing delegates in Swift, step by step <br />
 https://medium.com/@jamesrochabrun/implementing-delegates-in-swift-step-by-step-d3211cbac3ef <br />
+https://stackoverflow.com/questions/5431413/difference-between-protocol-and-delegates <br />
 Notification <br />
 Implementing Singleton Design Pattern<br />
 Difference between MVC and MVVM<br />
@@ -140,6 +141,9 @@ https://stackoverflow.com/questions/25809168/anyobject-and-any-in-swift
 Self-sizing Table view cells <br />
 Content Hugging and Compression Resistance (CHCR) <br />
 Intrinsic Content Size <br />
+
+<b>App Security</b> <br />
+https://www.netguru.co/codestories/5-steps-to-make-your-ios-app-more-secure
 
 <b>Github Useful resources</b> <br />
 ———<br />
