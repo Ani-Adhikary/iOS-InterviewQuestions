@@ -54,7 +54,8 @@ MRC <br />
 Property Attributes <br />
 Atomic vs Non Atomic <br />
 Copy vs Retain <br />
-
+Why IBOutlets are weak?<br />
+https://www.quora.com/What-is-the-point-of-using-weak-variables-in-IBOutlets<br />
 <b>UITableViews</b> <br />
 ——— <br />
 Reuse Identifier <br />
