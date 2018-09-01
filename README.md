@@ -132,6 +132,8 @@ When will you use extensions in Swift? Give example <br />
 Do, Try, Catch  <br />
 https://www.youtube.com/watch?v=Lrc-MX8WgNc&t=74s <br />
 
+Any vs AnyObject <br />
+https://stackoverflow.com/questions/25809168/anyobject-and-any-in-swift
 
 <b>Auto Layout</b> <br />
 ——— <br />
