@@ -28,6 +28,7 @@ Why delegation is implemented using protocols <br />
 Implementing delegates in Swift, step by step <br />
 https://medium.com/@jamesrochabrun/implementing-delegates-in-swift-step-by-step-d3211cbac3ef <br />
 https://stackoverflow.com/questions/5431413/difference-between-protocol-and-delegates <br />
+https://www.appcoda.com/swift-delegate/ <br />
 Notification <br />
 Implementing Singleton Design Pattern<br />
 Difference between MVC and MVVM<br />
