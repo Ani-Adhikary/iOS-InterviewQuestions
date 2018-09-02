@@ -44,6 +44,7 @@ Sync vs Async <br />
 GCD in detail <br />
 Despatch Groups <br />
 When to use GCD and Operations <br />
+https://stackoverflow.com/questions/10373331/nsoperation-vs-grand-central-dispatch <br />
 
 <b>Memory Management</b> <br />
 ——— <br />
