@@ -148,6 +148,9 @@ Intrinsic Content Size <br />
 <b>App Security</b> <br />
 https://www.netguru.co/codestories/5-steps-to-make-your-ios-app-more-secure
 
+<b>Data Structures and Algorithms Udacity</b> <br />
+https://classroom.udacity.com/courses/ud1011/lessons/fad64e7f-79e6-412f-bdfb-ad0a41007eab/concepts/5ec135c4-20c1-4763-8126-3dab8680f6b9
+
 <b>Github Useful resources</b> <br />
 ———<br />
 https://github.com/onthecodepath/iOS-Interview-Questions <br />
