@@ -35,7 +35,9 @@ Difference between MVC and MVVM<br />
 iOS Architecture Patterns <br />
 https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52<br />
 Adopting Cocoa Design Patterns <br />
-https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/AdoptingCocoaDesignPatterns.html
+https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/AdoptingCocoaDesignPatterns.html<br />
+Singleton pattern <br />
+https://cocoacasts.com/what-is-a-singleton-and-how-to-create-one-in-swift <br />
 
 
 <b>Concurrency</b> <br />
