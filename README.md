@@ -124,6 +124,7 @@ Use of closures <br />
 Filter, Map Reduce <br />
 @escaping <br />
 What are completion handlers <br />
+https://stackoverflow.com/questions/46245517/swift-escaping-and-completion-handler
 
 <b>Generics</b> <br />
 —— <br />
