@@ -53,6 +53,7 @@ https://stackoverflow.com/questions/10373331/nsoperation-vs-grand-central-dispat
 ARC <br />
 What is Strong Reference Cycle <br />
 Diff between Strong, Weak and Unknown <br />
+https://cocoacasts.com/what-is-the-difference-between-strong-weak-and-unowned-references<br />
 MRC <br />
 Property Attributes <br />
 Atomic vs Non Atomic <br />
