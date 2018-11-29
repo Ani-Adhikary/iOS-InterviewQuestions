@@ -111,6 +111,8 @@ Lazy Stored Property <br />
 <b>Structures vs Classes </b> <br />
 ——— <br />
 When to use when <br />
+Mutating Functions in Swift Structs <br />
+https://www.natashatherobot.com/mutating-functions-swift-structs/<br />
 
 <b>Initializers </b><br />
 ——— <br />
