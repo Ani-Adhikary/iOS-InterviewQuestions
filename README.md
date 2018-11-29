@@ -58,6 +58,7 @@ MRC <br />
 Property Attributes <br />
 Atomic vs Non Atomic <br />
 Copy vs Retain <br />
+https://stackoverflow.com/questions/2399490/what-is-the-difference-between-copy-and-retain<br />
 Why IBOutlets are weak?<br />
 https://www.quora.com/What-is-the-point-of-using-weak-variables-in-IBOutlets<br />
 Memory Management in Objective C <br />
