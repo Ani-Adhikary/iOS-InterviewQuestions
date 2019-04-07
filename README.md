@@ -170,3 +170,7 @@ https://classroom.udacity.com/courses/ud1011/lessons/fad64e7f-79e6-412f-bdfb-ad0
 ———<br />
 https://github.com/onthecodepath/iOS-Interview-Questions <br />
 https://github.com/BohdanOrlov/iOS-Developer-Roadmap
+
+<b>Hacking With Swift Useful</b> <br />
+———<br />
+https://www.hackingwithswift.com/sixty
