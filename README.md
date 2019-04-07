@@ -91,6 +91,10 @@ When to use when <br />
 ——- <br />
 Optionals as Enums <br />
 Optional, Non Optional and Implicitly Unwrapped Optional <br />
+When to use an Implicitly Unwrapped Optionals in Swift ?! <br />
+https://medium.com/@sarunw/when-to-use-an-implicitly-unwrapped-optionals-in-swift-7d5d54c95d3d <br />
+
+https://cocoacasts.com/when-should-you-use-implicitly-unwrapped-optionals <br />
 
 <b>Functions </b><br />
 ——— <br />
