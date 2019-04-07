@@ -96,6 +96,8 @@ https://medium.com/@sarunw/when-to-use-an-implicitly-unwrapped-optionals-in-swif
 
 https://cocoacasts.com/when-should-you-use-implicitly-unwrapped-optionals <br />
 
+https://krakendev.io/blog/when-to-use-implicitly-unwrapped-optionals <br />
+
 <b>Functions </b><br />
 ——— <br />
 Multiple Return Types <br />
