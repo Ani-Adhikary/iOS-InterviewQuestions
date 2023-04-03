@@ -189,4 +189,19 @@ https://clean-swift.com/clean-swift-ios-architecture/
 https://byby.dev/ios-interview-swiftui
 
 
+# Advanced Topics
+
+https://stackoverflow.com/questions/45682622/swift-execute-asynchronous-tasks-in-order
+
+Class Extensions and Protocol Extensions
+
+Download multiple images
+
+SOLID
+
+Complete A and B then start C
+
+Deletion rules in Core Data
+
+Pause and Resume Download in iOS
 
