@@ -205,3 +205,6 @@ Deletion rules in Core Data
 
 Pause and Resume Download in iOS
 
+SOLID -
+
+https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
