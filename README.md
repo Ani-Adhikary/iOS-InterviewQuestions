@@ -208,3 +208,5 @@ Pause and Resume Download in iOS
 SOLID -
 
 https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+
+Distribution profiles in iOS App Store
